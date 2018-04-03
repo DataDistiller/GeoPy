@@ -1,0 +1,7 @@
+from geopy.geocoders import Nominatim
+>>> geolocator = Nominatim()
+>>> location = geolocator.geocode("330 Madison Avenue NYC")
+>>> print(location.address)
+330, Madison Avenue, Diamond District, Manhattan Community Board 5, New York County, NYC, New York, 10017, United States of America
+
+
