@@ -5,3 +5,4 @@ from geopy.geocoders import Nominatim
 330, Madison Avenue, Diamond District, Manhattan Community Board 5, New York County, NYC, New York, 10017, United States of America
 
 
+http://geopy.readthedocs.io/en/latest/#
